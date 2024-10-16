@@ -1,0 +1,7 @@
+C:\Users\user\Desktop\quiz1_lasha_ghonghadze\quiz1_lasha_ghonghadze\bin\Debug\quiz1_lasha_ghonghadze.exe.config
+C:\Users\user\Desktop\quiz1_lasha_ghonghadze\quiz1_lasha_ghonghadze\bin\Debug\quiz1_lasha_ghonghadze.exe
+C:\Users\user\Desktop\quiz1_lasha_ghonghadze\quiz1_lasha_ghonghadze\bin\Debug\quiz1_lasha_ghonghadze.pdb
+C:\Users\user\Desktop\quiz1_lasha_ghonghadze\quiz1_lasha_ghonghadze\obj\Debug\quiz1_lasha_ghonghadze.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\quiz1_lasha_ghonghadze\quiz1_lasha_ghonghadze\obj\Debug\quiz1_lasha_ghonghadze.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\quiz1_lasha_ghonghadze\quiz1_lasha_ghonghadze\obj\Debug\quiz1_lasha_ghonghadze.exe
+C:\Users\user\Desktop\quiz1_lasha_ghonghadze\quiz1_lasha_ghonghadze\obj\Debug\quiz1_lasha_ghonghadze.pdb
